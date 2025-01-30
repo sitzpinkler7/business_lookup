@@ -1,0 +1,544 @@
+code,business category,location,charge,Size
+305,"Large transport company, Over 30 Vehicles",cbd,68000,Large
+310,Medium Transport company from 2 to 30 vehicles,cbd,25500,Medium
+311,Large Car Bazaar over 30 vehicles,cbd,25500,Large
+312,Medium Car Bazaar 20 to 30 vehicles,cbd,17000,Medium
+313,Small Car Bazaar less than 20 vehicle,cbd,14000,Small
+315,"Small transport company, per vehicle",cbd,8500,Small
+316,large driving school with over 10 test vehicles,cbd,27000,Large
+317,medium driving school with test vehicles between5-10,cbd,21000,Medium
+318,small driving school with test vehicles below 5,cbd,17000,Small
+320,Motor bike/tuk tuk distributor,cbd,6000,
+321,Large private parking over 20 vehicles,cbd,75000,Large
+322,Medium private parking less than 20 vehicles,cbd,35000,Medium
+325,Large petrol filling Station over 5 pumps nozzles or with garage ? workshop and retail shop,cbd,45500,Large
+330,"Medium Petrol Filling Station, From 3 to 4Pumps  nozzles or with garage workshop or retail shop",cbd,35500,Medium
+335,"Small petrol filling station up to 2 pumps nozzles  and without garage, workshop or retail shop",cbd,27500,Small
+340,"Large cold storage facility over 1000m2 insulated wall, cold production equipment",cbd,46750,Large
+345,Medium Cold storage facility between 100 ? 1000m2,cbd,21250,Medium
+350,Small cold storage facility up to 100m2,cbd,10200,Small
+355,"Large storage facility over 5000 m2 Go down, warehouse, liquid storage tanks complex",cbd,42500,Large
+360,Medium storage facility  from 1000m2 to 5000m2,cbd,17000,Medium
+365,Small storage facility up to 1000m2,cbd,8500,Small
+366,Large Building materials storage facility over 3500M2,cbd,35000,Large
+367,Medium Building materials storage facility between 2000-3500M2,cbd,25000,Medium
+368,Small Building materials storage facility Less than 2000M2,cbd,17000,Small
+370,Large communications Co. over 30 employees and or premises over 5000m2,cbd,76500,Large
+375,"Medium Communication Co from 16 to 29 employees and or premises from 46,7501500 to 5000m2",cbd,46750,Medium
+376,Communication Mast,cbd,45000,
+380,Small communication to up to 15 employees and or premises up to 250m2,cbd,25500,Small
+395,"Other transport, storage and communications",cbd,5950,
+396,large airline /Sacco booking offices with over four tellers,cbd,40000,Large
+397,medium airline /Sacco booking offices with tellers between 2-4,cbd,25000,Medium
+398,small airline /Sacco booking office with less than 2 tellers,cbd,15000,Small
+103,"Mega Store, Hyper  Markets, Large Multi Department Store, over 100 employees, Perimeter over 3000m2 (Prime location Mega Store, Hyper  Markets, Large Multi Department Store, over 100 employees, Perimeter over 3000m2 (Prime location",cbd,80000,Large
+104,"Medium-Mega Store, Hyper  Markets, medium Multi Department Store, between 75-100 employees, Perimeter over 2500m2 (Prime location medium Mega Store, Hyper  Markets, medium Multi Department Store, over 100 employees, Perimeter over 2500m2 (Prime location",cbd,65000,Medium
+105,"Large trader, medium supermarkets,, shops  or Retail Service with Over 20 employees and Premises over 300m2 (Prime location)",cbd,51000,Large
+106,"Small supermarkets, large Wholesalers,  and large stock list",cbd,35000,Small
+107,"medium wholesalers, Large beauty shops e.g. Baby ware, cosmetic shop, jewel",cbd,15000,Medium
+108,"Medium beauty shops eg. Baby ware, cosmetic shop, jewelry",cbd,12500,Medium
+109,"Small beauty shops eg. Baby ware, cosmetic shop, jewelry",cbd,8500,Small
+110,"Medium Trader, shops or Retail Service From 1 to 2 employees and or premises less than 50m2 (F location",cbd,8500,Medium
+111,Large Boutique from 5 to 20 employees,cbd,17000,Large
+112,Medium Boutique from 2 to 5 employees and less than 100m2,cbd,7000,Medium
+113,Small Boutique less than 2 employees and less than 100m2,cbd,7000,Small
+115,"Small Trader, kiosk, Grocery  Up to 2 employees and or premises less than 50m2/ far away location)",cbd,5950,Small
+116,Large hardware with employees over 10 and the area 250m2,cbd,51000,Large
+117,Medium hardware with employees from 2 to 9 and area between 100m2 to 250m2,cbd,27000,Medium
+118,Small Hard ware with  employees below 2 and the area below 100m2,cbd,17000,Small
+120,Large electronic/ mobile phones shop with above 5 employees,cbd,35000,Large
+121,Medium Electronic/ mobile phones with 2 ? 4 employees,cbd,25000,Medium
+122,Small Electronic/ mobile phones with only 1 employee,cbd,10000,Small
+123,large dry cleaners and Dobi services with employees over 10 and area over 250m2,cbd,35000,Large
+124,medium dry cleaners and Dobi services with employees between 5- 10 and area between100- 250m2,cbd,25000,Medium
+125,small dry cleaners and Dobi services with employees below 5 and area below100m2,cbd,17000,Small
+130,Large Chemist of above 5 employees,cbd,20000,Large
+131,Medium Chemist of between 2 ? 4 employees,cbd,15000,Medium
+132,Small chemist,cbd,10000,Small
+205,"Hawker with motor vehicle, 1 person with motor vehicle",cbd,4250,
+210,Hawker 1 person without a motor vehicle,cbd,3400,
+211,"large scrap metal, waste paper , commercial public toilet dealers over 100m2",cbd,40000,Large
+212,"medium scrap metal , waste paper dealers, commercial public toilet  between 50- 100m2",cbd,25000,Medium
+213,"small scrap metal, waste paper , commercial public toilet dealers below 50m2",cbd,12500,Small
+215,"Small Informal sector trade/service provider, shoe shine, shoe repair, street vendor/Newspapers, sweets,, soda, cigarettes .",cbd,1700,Small
+220,"Semi-permanent Informal  Sector, Trader up to 2 persons, Operators in veranda or temporary building",cbd,1700,
+295,Other Informal  Sector operations,cbd,1700,
+405,"LARGE AGRUCLTURAL PRODUCER, Dealer, Supporter over 50 employees",cbd,75000,Large
+410,Medium Agricultural producer/Processor/Dealer/exporter from 11 to 50 employees,cbd,35000,Medium
+411,Large Bakeries/Confectioneries,cbd,60000,Large
+412,Medium Bakeries/Confectioneries,cbd,34000,Medium
+413,Small Bakeries/Confectioneries,cbd,12500,Small
+415,Small mining producer Processor/dealer,cbd,40000,Small
+420,"Medium mining or Natural resources, extraction",cbd,75000,Medium
+420,"Large mining or Natural resources, extraction",cbd,100000,Large
+416,Large Posho Mill more than one Mills,cbd,8500,Large
+417,Small Posho Mill ? one mill,cbd,7000,Small
+418,Large Cereals outlet ,cbd,17000,Large
+419,Medium cereals outlet,cbd,10000,Medium
+420,Small Cereals outlet,cbd,8500,Small
+421,HORTICULTURE PRODUCTS Large ? above 2 hectares Above 50 employees,cbd,55250,Large
+422,HORTICULTURE PRODUCTS Medium ? 1-2 hectares 20-50 Employees,cbd,22000,Medium
+423,HORTICULTURE PRODUCTS Small Below 1 Hectare  Below 20 Employees,cbd,11250,Small
+425,"MILK PROCESSORS Large with capacity of over 5,000 Liters per day",cbd,80000,Large
+426,"MILK PROCESSORS Medium with capacity of between 2000 ? less than 5,000 liters per day",cbd,50000,Medium
+427,"MILK PROCESSORS Small with less than 2,000 liters per day",cbd,20000,Small
+428,Milk Dispenser ATM,cbd,10000,
+429,Small Dairies (Direct from the farm),cbd,8500,Small
+431,Timber Yard Large,cbd,22500,Large
+432,Timber Yard Medium ?,cbd,17000,Medium
+433,Timber Yard Small,cbd,10200,Small
+434,Slaughter House Large,cbd,17000,Large
+435,Slaughter House Medium ?,cbd,10200,Medium
+436,Slaughter House Small,cbd,8500,Small
+437,Butchery Large,cbd,17000,Large
+438,Butchery Medium,cbd,10000,Medium
+439,Butchery Small,cbd,7500,Small
+440,Large Saw mill,cbd,35000,Large
+441,Medium Saw mill,cbd,27000,Medium
+442,Small Saw mill,cbd,17000,Small
+443,Large Poles/Timber Treatment Plant,cbd,75000,Large
+444,Medium Poles/Timber Treatment Plant,cbd,40000,Medium
+445,Small Poles/Timber Treatment Plant,cbd,25000,Small
+446,Large outlet dealers in Sale of cooking Gas/solutions ,cbd,21250,Large
+447,Large outlet dealers in Sale of cooking Gas/solutions ,cbd,10000,Large
+448,Large outlet dealers in Sale of cooking Gas/solutions ,cbd,7000,Large
+495,Agrovets Large,cbd,15000,Large
+496,Agrovets Medium,cbd,10000,Medium
+497,Agrovets Small,cbd,6000,Small
+503,"LARGE, HIGH STANDARD LODGING, House/Hostel  D class  over 100 rooms",cbd,85000,Large
+506,"MEDIUM HIGH STANDARD LODGING, House/Hostel D class from 40 to 99 rooms",cbd,75000,Medium
+509,"SMALL HIGH STANDARD LODGING, House/Hotel D class up to 39 rooms",cbd,59500,Small
+512,"LARGE LODGING HOUSE , With Restaurant and or Bar  B/C class, Basic standard over 15 rooms",cbd,42500,Large
+515,Medium Lodging House with Restaurant or Bar B/C class Basic standard from  6 to 15 rooms,cbd,38250,Medium
+518,"Small lodging House with Restaurant and or Bar B/C class, Basic standard up to 5 rooms",cbd,29750,Small
+521,"Large lodging House B/C class, Basic standard over 15 rooms",cbd,38250,Large
+524,"Medium lodging House B/C class, Basic standard from 6 to 15 rooms",cbd,30000,Medium
+527,"Small lodging House, Basic standard B/C class up to 5 rooms",cbd,21250,Small
+540,Large Restaurant with Bar/Membership club over 30 customers/members,cbd,34000,Large
+543,Medium Restaurant with Bar/membership club 11 to 30 customers/members,cbd,21250,Medium
+546,Small Restaurant with pub up to 10 customers,cbd,12750,Small
+549,"Large eating house, snack bar, tea house,? hotel?  no lodging, no alcohol served over 20 customers.",cbd,21250,Large
+552,"Medium eating house snack bar, tea house, ?Hotel?",cbd,10000,Medium
+555,"Small eating house, snack bar, tea house, ?Hotel? no lodging no alcohol served up to 6 customers",cbd,7000,Small
+558,Butchery with  roasted meat and or soup kitchen any size,cbd,10000,
+561,Large Bar/Traditional beer Seller  over 50 customers,cbd,21250,Large
+564,Medium Bar/Traditional Bar Seller from 16 to 50 customers,cbd,17250,Medium
+567,Small Bar/Traditional Beer Seller up to 15 customers,cbd,8500,Small
+571,Large Night Club/Casino over 500m2,cbd,59500,Large
+574,Medium Night club/casino from 101 to 500m2,cbd,34000,Medium
+575,Small Night club/Casino up to 100m2,cbd,22500,Small
+595,"Homestay, AIRBNB and catering",cbd,15500,
+605,Large professional service from over 10 practitioners and for International affiliation,cbd,100000,Large
+606,Large (Above 5 practitioners),cbd,45000,Large
+607,Medium (Between 2-5 practitioners),cbd,32000,Medium
+608,Small (Below 2practitioners),cbd,17000,Small
+610,Medium professional services from 3 to 10 practitioners,cbd,42500,Medium
+615,Small Professional services from up to 2 practitioners,cbd,22500,Small
+622,Recruitment agencies with above 5 employees,cbd,50000,
+623,Recruitment agencies with less than 5 employees,cbd,35000,
+624,"Independent Technical operator 1 person acting Individually (Accountant, Book-keeper etc)",cbd,8500,
+625,Large financial services over 25 employees or premises over 300m2,cbd,100000,Large
+626,Medium Financial services from 6 to 25 employees,cbd,75000,Medium
+635,Small Financial services up to 5 employees,cbd,42500,Small
+637,Large Car Wash with more than 5 employees,cbd,10000,Large
+638,Medium Car wash with between 2 ? 4 employees,cbd,15000,Medium
+639,Small Car wash wish one employee,cbd,8500,Small
+640,MPESA Above 2 Tellers,cbd,12500,
+641,MPESA Below 2 tellers,cbd,6000,
+643,money point/ATMs/ money machines separate from branch/office(per ATM),cbd,35000,
+644,Executive kinyozi /salon with over 5chairs with several massage beds with pedicures,cbd,17000,
+645,Large kinyozi /salon with between 3-5  chairs with no massage,cbd,10000,Large
+646,Medium kinyozi /salon 2-3 chairs with no massage,cbd,7000,Medium
+647,Small kinyozi /salon with less than 2 chairs with no massage,cbd,5000,Small
+695,Tailoring/dress making,cbd,6000,
+696,Large with more than 5 employees,cbd,17000,Large
+697,Medium with between 2 ? 4 employees,cbd,10000,Medium
+698,Small with one employee,cbd,5000,Small
+704,"Large Private Higher Education Institution Any type of private University or a constituent college of  a University, college or higher education institution over 500 Students or fees over 100,000 per year",cbd,60000,Large
+705,"Medium  Private Education Institution  Any type of private University or a constituent college of  a University, college or higher education institution above 200 Students or fees over 50,000 per year",cbd,40000,Medium
+710,"Small  Private Education Institution  Any type of private University or a constituent college of  a University, college or higher education institution with less than 200 Students or fees over less than 50,000 per year",cbd,20000,Small
+713,"Large private primary institutions or ECD center with more than 300 children or fees more than shs 50,000 per year",cbd,20000,Large
+714,"Medium  private primary institutions or ECD centers with more than 100 children or fees more than shs 20,000 per year",cbd,15000,Medium
+715,"Small Private primary institutions or ECD center with less than 100 children or fees less than shs 20,000 per year",cbd,10000,Small
+720,"Large private health facility hospital, clinic, nursing home, Clinics, Funeral homes providing overnight accommodation, over 30 beds funeral home",cbd,80000,Large
+721,"Medium private health facility, Chemists distributors, Funeral homes  from 11 to 30 beds funeral home",cbd,50000,Medium
+722,Small private health facility /Funeral homes up to 10 beds,cbd,30000,Small
+723,"Health clinic, doctors surgery, Doctors dentist ? physiotherapist etc. consultant office no overnight accommodation",cbd,10000,
+724,Private medical Laboratories found in Pharmacies,cbd,15000,
+725,"Traditional Health Services, Herbalist, Traditional healer etc.",cbd,15000,
+730,"Large entertainment facility, Cinema, Theatre ? video show over 101 seats, PlayStation, Amusement, juke box, Games machines Arcades over 10 machines, sports club, gym over 50 members",cbd,80000,Large
+731,"Medium Entertainment facility, From 50 to 100 seats / from 4 to 10 machines/from 16 to 50 members",cbd,50000,Medium
+732,Small Entertainment facility up to 60 seats/up to 3 machines up to 15 members,cbd,25000,Small
+734,Photocopy/typesetting/cyber,cbd,7000,
+810,Large Industrial plant over 75 employees or premises over 2500m2,cbd,100000,Large
+811,Medium Industrial Plant up to 15 employees or premises up to 100m2,cbd,75000,Medium
+812,Small Industrial plant up to 15 employees or premises up to 100m2,cbd,40000,Small
+820,"Large workshop, Service repair Garage, contractor over 5 employees or premises over 500m2",cbd,60000,Large
+821,"Medium workshop, service repair Garage,  contractor from 3 to 4 employees or premises from 25 m2 to 500m2",cbd,40000,Medium
+822,"Small workshop, service repair Garage, contractor up to 2 employees or premises up to 25m2",cbd,17000,Small
+823,"Other manufacturer ,workshop factory contractor",cbd,6000,
+824,Wood Carpentry,cbd,12500,
+825,"Construction. Supplies of building materials, Block Making",cbd,22500,
+826,Furniture/ house hold Show rooms,cbd,45000,
+305,"Large transport company, Over 30 Vehicles",estates,32000,Large
+310,Medium Transport company from 2 to 30 vehicles,estates,17000,Medium
+311,Large Car Bazaar over 30 vehicles,estates,17000,Large
+312,Medium Car Bazaar 20 to 30 vehicles,estates,12500,Medium
+313,Small Car Bazaar less than 20 vehicle,estates,10500,Small
+315,"Small transport company, per vehicle",estates,6000,Small
+316,large driving school with over 10 test vehicles,estates,21000,Large
+317,medium driving school with test vehicles between5-10,estates,17500,Medium
+318,small driving school with test vehicles below 5,estates,12500,Small
+320,Motor bike/tuk tuk distributor,estates,4000,
+321,Large private parking over 20 vehicles,estates,55000,Large
+322,Medium private parking less than 20 vehicles,estates,27000,Medium
+325,Large petrol filling Station over 5 pumps nozzles or with garage ? workshop and retail shop,estates,45500,Large
+330,"Medium Petrol Filling Station, From 3 to 4Pumps  nozzles or with garage workshop or retail shop",estates,35500,Medium
+335,"Small petrol filling station up to 2 pumps nozzles  and without garage, workshop or retail shop",estates,27500,Small
+340,"Large cold storage facility over 1000m2 insulated wall, cold production equipment",estates,38250,Large
+345,Medium Cold storage facility between 100 ? 1000m2,estates,15000,Medium
+350,Small cold storage facility up to 100m2,estates,8500,Small
+355,"Large storage facility over 5000 m2 Go down, warehouse, liquid storage tanks complex",estates,35000,Large
+360,Medium storage facility  from 1000m2 to 5000m2,estates,12750,Medium
+365,Small storage facility up to 1000m2,estates,5950,Small
+366,Large Building materials storage facility over 3500M2,estates,35000,Large
+367,Medium Building materials storage facility between 2000-3500M2,estates,25000,Medium
+368,Small Building materials storage facility Less than 2000M2,estates,17000,Small
+370,Large communications Co. over 30 employees and or premises over 5000m2,estates,55000,Large
+375,"Medium Communication Co from 16 to 29 employees and or premises from 46,7501500 to 5000m2",estates,38250,Medium
+376,Communication Mast,estates,45000,
+380,Small communication to up to 15 employees and or premises up to 250m2,estates,17000,Small
+395,"Other transport, storage and communications",estates,4000,
+396,large airline /Sacco booking offices with over four tellers,estates,30500,Large
+397,medium airline /Sacco booking offices with tellers between 2-4,estates,17500,Medium
+398,small airline /Sacco booking office with less than 2 tellers,estates,12500,Small
+103,"Mega Store, Hyper  Markets, Large Multi Department Store, over 100 employees, Perimeter over 3000m2 (Prime location Mega Store, Hyper  Markets, Large Multi Department Store, over 100 employees, Perimeter over 3000m2 (Prime location",estates,65000,Large
+104,"Medium-Mega Store, Hyper  Markets, medium Multi Department Store, between 75-100 employees, Perimeter over 2500m2 (Prime location medium Mega Store, Hyper  Markets, medium Multi Department Store, over 100 employees, Perimeter over 2500m2 (Prime location",estates,55000,Medium
+105,"Large trader, medium supermarkets,, shops  or Retail Service with Over 20 employees and Premises over 300m2 (Prime location)",estates,35000,Large
+106,"Small supermarkets, large Wholesalers,  and large stock list",estates,17000,Small
+107,"medium wholesalers, Large beauty shops e.g. Baby ware, cosmetic shop, jewel",estates,7500,Medium
+108,"Medium beauty shops eg. Baby ware, cosmetic shop, jewelry",estates,8500,Medium
+109,"Small beauty shops eg. Baby ware, cosmetic shop, jewelry",estates,4000,Small
+110,"Medium Trader, shops or Retail Service From 1 to 2 employees and or premises less than 50m2 (F location",estates,6000,Medium
+111,Large Boutique from 5 to 20 employees,estates,8500,Large
+112,Medium Boutique from 2 to 5 employees and less than 100m2,estates,5000,Medium
+113,Small Boutique less than 2 employees and less than 100m2,estates,4500,Small
+115,"Small Trader, kiosk, Grocery  Up to 2 employees and or premises less than 50m2/ far away location)",estates,4000,Small
+116,Large hardware with employees over 10 and the area 250m2,estates,35000,Large
+117,Medium hardware with employees from 2 to 9 and area between 100m2 to 250m2,estates,17000,Medium
+118,Small Hard ware with  employees below 2 and the area below 100m2,estates,8500,Small
+120,Large electronic/ mobile phones shop with above 5 employees,estates,17000,Large
+121,Medium Electronic/ mobile phones with 2 ? 4 employees,estates,17500,Medium
+122,Small Electronic/ mobile phones with only 1 employee,estates,6000,Small
+123,large dry cleaners and Dobi services with employees over 10 and area over 250m2,estates,25000,Large
+124,medium dry cleaners and Dobi services with employees between 5- 10 and area between100- 250m2,estates,17000,Medium
+125,small dry cleaners and Dobi services with employees below 5 and area below100m2,estates,12500,Small
+130,Large Chemist of above 5 employees,estates,15000,Large
+131,Medium Chemist of between 2 ? 4 employees,estates,10000,Medium
+132,Small chemist,estates,7500,Small
+205,"Hawker with motor vehicle, 1 person with motor vehicle",estates,3400,
+210,Hawker 1 person without a motor vehicle,estates,1600,
+211,"large scrap metal, waste paper , commercial public toilet dealers over 100m2",estates,25000,Large
+212,"medium scrap metal , waste paper dealers, commercial public toilet  between 50- 100m2",estates,12500,Medium
+213,"small scrap metal, waste paper , commercial public toilet dealers below 50m2",estates,10500,Small
+215,"Small Informal sector trade/service provider, shoe shine, shoe repair, street vendor/Newspapers, sweets,, soda, cigarettes .",estates,1200,Small
+220,"Semi-permanent Informal  Sector, Trader up to 2 persons, Operators in veranda or temporary building",estates,1200,
+295,Other Informal  Sector operations,estates,1200,
+405,"LARGE AGRUCLTURAL PRODUCER, Dealer, Supporter over 50 employees",estates,75000,Large
+410,Medium Agricultural producer/Processor/Dealer/exporter from 11 to 50 employees,estates,35000,Medium
+411,Large Bakeries/Confectioneries,estates,30000,Large
+412,Medium Bakeries/Confectioneries,estates,15000,Medium
+413,Small Bakeries/Confectioneries,estates,6500,Small
+415,Small mining producer Processor/dealer,estates,40000,Small
+420,"Medium mining or Natural resources, extraction",estates,75000,Medium
+420,"Large mining or Natural resources, extraction",estates,100000,Large
+416,Large Posho Mill more than one Mills,estates,8500,Large
+417,Small Posho Mill ? one mill,estates,7000,Small
+418,Large Cereals outlet ,estates,12000,Large
+419,Medium cereals outlet,estates,8500,Medium
+420,Small Cereals outlet,estates,5000,Small
+421,HORTICULTURE PRODUCTS Large ? above 2 hectares Above 50 employees,estates,35000,Large
+422,HORTICULTURE PRODUCTS Medium ? 1-2 hectares 20-50 Employees,estates,15750,Medium
+423,HORTICULTURE PRODUCTS Small Below 1 Hectare  Below 20 Employees,estates,6800,Small
+425,"MILK PROCESSORS Large with capacity of over 5,000 Liters per day",estates,50000,Large
+426,"MILK PROCESSORS Medium with capacity of between 2000 ? less than 5,000 liters per day",estates,35000,Medium
+427,"MILK PROCESSORS Small with less than 2,000 liters per day",estates,12500,Small
+428,Milk Dispenser ATM,estates,8500,
+429,Small Dairies (Direct from the farm),estates,5000,Small
+431,Timber Yard Large,estates,22500,Large
+432,Timber Yard Medium ?,estates,17000,Medium
+433,Timber Yard Small,estates,6800,Small
+434,Slaughter House Large,estates,11500,Large
+435,Slaughter House Medium ?,estates,6800,Medium
+436,Slaughter House Small,estates,5950,Small
+437,Butchery Large,estates,11000,Large
+438,Butchery Medium,estates,6500,Medium
+439,Butchery Small,estates,5000,Small
+440,Large Saw mill,estates,35000,Large
+441,Medium Saw mill,estates,27000,Medium
+442,Small Saw mill,estates,17000,Small
+443,Large Poles/Timber Treatment Plant,estates,75000,Large
+444,Medium Poles/Timber Treatment Plant,estates,40000,Medium
+445,Small Poles/Timber Treatment Plant,estates,25000,Small
+446,Large outlet dealers in Sale of cooking Gas/solutions ,estates,15000,Large
+447,Large outlet dealers in Sale of cooking Gas/solutions ,estates,8000,Large
+448,Large outlet dealers in Sale of cooking Gas/solutions ,estates,3500,Large
+495,Agrovets Large,estates,10000,Large
+496,Agrovets Medium,estates,6000,Medium
+497,Agrovets Small,estates,4000,Small
+503,"LARGE, HIGH STANDARD LODGING, House/Hostel  D class  over 100 rooms",estates,85000,Large
+506,"MEDIUM HIGH STANDARD LODGING, House/Hostel D class from 40 to 99 rooms",estates,55000,Medium
+509,"SMALL HIGH STANDARD LODGING, House/Hotel D class up to 39 rooms",estates,35000,Small
+512,"LARGE LODGING HOUSE , With Restaurant and or Bar  B/C class, Basic standard over 15 rooms",estates,28000,Large
+515,Medium Lodging House with Restaurant or Bar B/C class Basic standard from  6 to 15 rooms,estates,20000,Medium
+518,"Small lodging House with Restaurant and or Bar B/C class, Basic standard up to 5 rooms",estates,18000,Small
+521,"Large lodging House B/C class, Basic standard over 15 rooms",estates,18000,Large
+524,"Medium lodging House B/C class, Basic standard from 6 to 15 rooms",estates,15000,Medium
+527,"Small lodging House, Basic standard B/C class up to 5 rooms",estates,10000,Small
+540,Large Restaurant with Bar/Membership club over 30 customers/members,estates,22250,Large
+543,Medium Restaurant with Bar/membership club 11 to 30 customers/members,estates,15000,Medium
+546,Small Restaurant with pub up to 10 customers,estates,8500,Small
+549,"Large eating house, snack bar, tea house,? hotel?  no lodging, no alcohol served over 20 customers.",estates,15000,Large
+552,"Medium eating house snack bar, tea house, ?Hotel?",estates,8000,Medium
+555,"Small eating house, snack bar, tea house, ?Hotel? no lodging no alcohol served up to 6 customers",estates,3500,Small
+558,Butchery with  roasted meat and or soup kitchen any size,estates,7000,
+561,Large Bar/Traditional beer Seller  over 50 customers,estates,15000,Large
+564,Medium Bar/Traditional Bar Seller from 16 to 50 customers,estates,11000,Medium
+567,Small Bar/Traditional Beer Seller up to 15 customers,estates,5950,Small
+571,Large Night Club/Casino over 500m2,estates,35000,Large
+574,Medium Night club/casino from 101 to 500m2,estates,22250,Medium
+575,Small Night club/Casino up to 100m2,estates,15750,Small
+595,"Homestay, AIRBNB and catering",estates,8950,
+605,Large professional service from over 10 practitioners and for International affiliation,estates,50000,Large
+606,Large (Above 5 practitioners),estates,32000,Large
+607,Medium (Between 2-5 practitioners),estates,24000,Medium
+608,Small (Below 2practitioners),estates,10200,Small
+610,Medium professional services from 3 to 10 practitioners,estates,28000,Medium
+615,Small Professional services from up to 2 practitioners,estates,15750,Small
+622,Recruitment agencies with above 5 employees,estates,35000,
+623,Recruitment agencies with less than 5 employees,estates,20000,
+624,"Independent Technical operator 1 person acting Individually (Accountant, Book-keeper etc)",estates,5950,
+625,Large financial services over 25 employees or premises over 300m2,estates,75000,Large
+626,Medium Financial services from 6 to 25 employees,estates,55000,Medium
+635,Small Financial services up to 5 employees,estates,28000,Small
+637,Large Car Wash with more than 5 employees,estates,7000,Large
+638,Medium Car wash with between 2 ? 4 employees,estates,10000,Medium
+639,Small Car wash wish one employee,estates,5500,Small
+640,MPESA Above 2 Tellers,estates,7500,
+641,MPESA Below 2 tellers,estates,3000,
+643,money point/ATMs/ money machines separate from branch/office(per ATM),estates,21500,
+644,Executive kinyozi /salon with over 5chairs with several massage beds with pedicures,estates,10000,
+645,Large kinyozi /salon with between 3-5  chairs with no massage,estates,7000,Large
+646,Medium kinyozi /salon 2-3 chairs with no massage,estates,5000,Medium
+647,Small kinyozi /salon with less than 2 chairs with no massage,estates,3000,Small
+695,Tailoring/dress making,estates,4000,
+696,Large with more than 5 employees,estates,15000,Large
+697,Medium with between 2 ? 4 employees,estates,7000,Medium
+698,Small with one employee,estates,3000,Small
+704,"Large Private Higher Education Institution Any type of private University or a constituent college of  a University, college or higher education institution over 500 Students or fees over 100,000 per year",estates,45000,Large
+705,"Medium  Private Education Institution  Any type of private University or a constituent college of  a University, college or higher education institution above 200 Students or fees over 50,000 per year",estates,25000,Medium
+710,"Small  Private Education Institution  Any type of private University or a constituent college of  a University, college or higher education institution with less than 200 Students or fees over less than 50,000 per year",estates,15000,Small
+713,"Large private primary institutions or ECD center with more than 300 children or fees more than shs 50,000 per year",estates,15000,Large
+714,"Medium  private primary institutions or ECD centers with more than 100 children or fees more than shs 20,000 per year",estates,8000,Medium
+715,"Small Private primary institutions or ECD center with less than 100 children or fees less than shs 20,000 per year",estates,7000,Small
+720,"Large private health facility hospital, clinic, nursing home, Clinics, Funeral homes providing overnight accommodation, over 30 beds funeral home",estates,65000,Large
+721,"Medium private health facility, Chemists distributors, Funeral homes  from 11 to 30 beds funeral home",estates,40000,Medium
+722,Small private health facility /Funeral homes up to 10 beds,estates,20000,Small
+723,"Health clinic, doctors surgery, Doctors dentist ? physiotherapist etc. consultant office no overnight accommodation",estates,8500,
+724,Private medical Laboratories found in Pharmacies,estates,10000,
+725,"Traditional Health Services, Herbalist, Traditional healer etc.",estates,10000,
+730,"Large entertainment facility, Cinema, Theatre ? video show over 101 seats, PlayStation, Amusement, juke box, Games machines Arcades over 10 machines, sports club, gym over 50 members",estates,50000,Large
+731,"Medium Entertainment facility, From 50 to 100 seats / from 4 to 10 machines/from 16 to 50 members",estates,30000,Medium
+732,Small Entertainment facility up to 60 seats/up to 3 machines up to 15 members,estates,20000,Small
+734,Photocopy/typesetting/cyber,estates,5000,
+810,Large Industrial plant over 75 employees or premises over 2500m2,estates,85000,Large
+811,Medium Industrial Plant up to 15 employees or premises up to 100m2,estates,50000,Medium
+812,Small Industrial plant up to 15 employees or premises up to 100m2,estates,25000,Small
+820,"Large workshop, Service repair Garage, contractor over 5 employees or premises over 500m2",estates,50000,Large
+821,"Medium workshop, service repair Garage,  contractor from 3 to 4 employees or premises from 25 m2 to 500m2",estates,25000,Medium
+822,"Small workshop, service repair Garage, contractor up to 2 employees or premises up to 25m2",estates,15000,Small
+823,"Other manufacturer ,workshop factory contractor",estates,5000,
+824,Wood Carpentry,estates,6000,
+825,"Construction. Supplies of building materials, Block Making",estates,15000,
+826,Furniture/ house hold Show rooms,estates,30000,
+305,"Large transport company, Over 30 Vehicles",townships,17000,Large
+310,Medium Transport company from 2 to 30 vehicles,townships,12000,Medium
+311,Large Car Bazaar over 30 vehicles,townships,12000,Large
+312,Medium Car Bazaar 20 to 30 vehicles,townships,8500,Medium
+313,Small Car Bazaar less than 20 vehicle,townships,6000,Small
+315,"Small transport company, per vehicle",townships,4000,Small
+316,large driving school with over 10 test vehicles,townships,175000,Large
+317,medium driving school with test vehicles between5-10,townships,12500,Medium
+318,small driving school with test vehicles below 5,townships,8500,Small
+320,Motor bike/tuk tuk distributor,townships,2000,
+321,Large private parking over 20 vehicles,townships,25500,Large
+322,Medium private parking less than 20 vehicles,townships,17000,Medium
+325,Large petrol filling Station over 5 pumps nozzles or with garage ? workshop and retail shop,townships,27500,Large
+330,"Medium Petrol Filling Station, From 3 to 4Pumps  nozzles or with garage workshop or retail shop",townships,22500,Medium
+335,"Small petrol filling station up to 2 pumps nozzles  and without garage, workshop or retail shop",townships,17000,Small
+340,"Large cold storage facility over 1000m2 insulated wall, cold production equipment",townships,22000,Large
+345,Medium Cold storage facility between 100 ? 1000m2,townships,12000,Medium
+350,Small cold storage facility up to 100m2,townships,4500,Small
+355,"Large storage facility over 5000 m2 Go down, warehouse, liquid storage tanks complex",townships,20000,Large
+360,Medium storage facility  from 1000m2 to 5000m2,townships,8000,Medium
+365,Small storage facility up to 1000m2,townships,4200,Small
+366,Large Building materials storage facility over 3500M2,townships,35000,Large
+367,Medium Building materials storage facility between 2000-3500M2,townships,25000,Medium
+368,Small Building materials storage facility Less than 2000M2,townships,17000,Small
+370,Large communications Co. over 30 employees and or premises over 5000m2,townships,36000,Large
+375,"Medium Communication Co from 16 to 29 employees and or premises from 46,7501500 to 5000m2",townships,22800,Medium
+376,Communication Mast,townships,45000,
+380,Small communication to up to 15 employees and or premises up to 250m2,townships,12000,Small
+395,"Other transport, storage and communications",townships,2800,
+396,large airline /Sacco booking offices with over four tellers,townships,17000,Large
+397,medium airline /Sacco booking offices with tellers between 2-4,townships,10500,Medium
+398,small airline /Sacco booking office with less than 2 tellers,townships,8500,Small
+103,"Mega Store, Hyper  Markets, Large Multi Department Store, over 100 employees, Perimeter over 3000m2 (Prime location Mega Store, Hyper  Markets, Large Multi Department Store, over 100 employees, Perimeter over 3000m2 (Prime location",townships,30000,Large
+104,"Medium-Mega Store, Hyper  Markets, medium Multi Department Store, between 75-100 employees, Perimeter over 2500m2 (Prime location medium Mega Store, Hyper  Markets, medium Multi Department Store, over 100 employees, Perimeter over 2500m2 (Prime location",townships,21000,Medium
+105,"Large trader, medium supermarkets,, shops  or Retail Service with Over 20 employees and Premises over 300m2 (Prime location)",townships,17000,Large
+106,"Small supermarkets, large Wholesalers,  and large stock list",townships,10500,Small
+107,"medium wholesalers, Large beauty shops e.g. Baby ware, cosmetic shop, jewel",townships,6500,Medium
+108,"Medium beauty shops eg. Baby ware, cosmetic shop, jewelry",townships,4500,Medium
+109,"Small beauty shops eg. Baby ware, cosmetic shop, jewelry",townships,4000,Small
+110,"Medium Trader, shops or Retail Service From 1 to 2 employees and or premises less than 50m2 (F location",townships,4000,Medium
+111,Large Boutique from 5 to 20 employees,townships,4000,Large
+112,Medium Boutique from 2 to 5 employees and less than 100m2,townships,4000,Medium
+113,Small Boutique less than 2 employees and less than 100m2,townships,2800,Small
+115,"Small Trader, kiosk, Grocery  Up to 2 employees and or premises less than 50m2/ far away location)",townships,3000,Small
+116,Large hardware with employees over 10 and the area 250m2,townships,17000,Large
+117,Medium hardware with employees from 2 to 9 and area between 100m2 to 250m2,townships,8500,Medium
+118,Small Hard ware with  employees below 2 and the area below 100m2,townships,5000,Small
+120,Large electronic/ mobile phones shop with above 5 employees,townships,10000,Large
+121,Medium Electronic/ mobile phones with 2 ? 4 employees,townships,8500,Medium
+122,Small Electronic/ mobile phones with only 1 employee,townships,4000,Small
+123,large dry cleaners and Dobi services with employees over 10 and area over 250m2,townships,12500,Large
+124,medium dry cleaners and Dobi services with employees between 5- 10 and area between100- 250m2,townships,10000,Medium
+125,small dry cleaners and Dobi services with employees below 5 and area below100m2,townships,8500,Small
+130,Large Chemist of above 5 employees,townships,8500,Large
+131,Medium Chemist of between 2 ? 4 employees,townships,6000,Medium
+132,Small chemist,townships,4000,Small
+205,"Hawker with motor vehicle, 1 person with motor vehicle",townships,1600,
+210,Hawker 1 person without a motor vehicle,townships,1200,
+211,"large scrap metal, waste paper , commercial public toilet dealers over 100m2",townships,12500,Large
+212,"medium scrap metal , waste paper dealers, commercial public toilet  between 50- 100m2",townships,10500,Medium
+213,"small scrap metal, waste paper , commercial public toilet dealers below 50m2",townships,5500,Small
+215,"Small Informal sector trade/service provider, shoe shine, shoe repair, street vendor/Newspapers, sweets,, soda, cigarettes .",townships,800,Small
+220,"Semi-permanent Informal  Sector, Trader up to 2 persons, Operators in veranda or temporary building",townships,800,
+295,Other Informal  Sector operations,townships,800,
+405,"LARGE AGRUCLTURAL PRODUCER, Dealer, Supporter over 50 employees",townships,55000,Large
+410,Medium Agricultural producer/Processor/Dealer/exporter from 11 to 50 employees,townships,27000,Medium
+411,Large Bakeries/Confectioneries,townships,15000,Large
+412,Medium Bakeries/Confectioneries,townships,6000,Medium
+413,Small Bakeries/Confectioneries,townships,3500,Small
+415,Small mining producer Processor/dealer,townships,40000,Small
+420,"Medium mining or Natural resources, extraction",townships,75000,Medium
+420,"Large mining or Natural resources, extraction",townships,100000,Large
+416,Large Posho Mill more than one Mills,townships,3500,Large
+417,Small Posho Mill ? one mill,townships,2500,Small
+418,Large Cereals outlet ,townships,7000,Large
+419,Medium cereals outlet,townships,4500,Medium
+420,Small Cereals outlet,townships,2800,Small
+421,HORTICULTURE PRODUCTS Large ? above 2 hectares Above 50 employees,townships,26000,Large
+422,HORTICULTURE PRODUCTS Medium ? 1-2 hectares 20-50 Employees,townships,10000,Medium
+423,HORTICULTURE PRODUCTS Small Below 1 Hectare  Below 20 Employees,townships,3200,Small
+425,"MILK PROCESSORS Large with capacity of over 5,000 Liters per day",townships,25000,Large
+426,"MILK PROCESSORS Medium with capacity of between 2000 ? less than 5,000 liters per day",townships,20000,Medium
+427,"MILK PROCESSORS Small with less than 2,000 liters per day",townships,6000,Small
+428,Milk Dispenser ATM,townships,4000,
+429,Small Dairies (Direct from the farm),townships,3000,Small
+431,Timber Yard Large,townships,12250,Large
+432,Timber Yard Medium ?,townships,8500,Medium
+433,Timber Yard Small,townships,5950,Small
+434,Slaughter House Large,townships,8500,Large
+435,Slaughter House Medium ?,townships,5950,Medium
+436,Slaughter House Small,townships,4000,Small
+437,Butchery Large,townships,8500,Large
+438,Butchery Medium,townships,5550,Medium
+439,Butchery Small,townships,2750,Small
+440,Large Saw mill,townships,35000,Large
+441,Medium Saw mill,townships,27000,Medium
+442,Small Saw mill,townships,17000,Small
+443,Large Poles/Timber Treatment Plant,townships,75000,Large
+444,Medium Poles/Timber Treatment Plant,townships,40000,Medium
+445,Small Poles/Timber Treatment Plant,townships,25000,Small
+446,Large outlet dealers in Sale of cooking Gas/solutions ,townships,10000,Large
+447,Large outlet dealers in Sale of cooking Gas/solutions ,townships,6000,Large
+448,Large outlet dealers in Sale of cooking Gas/solutions ,townships,2800,Large
+495,Agrovets Large,townships,8500,Large
+496,Agrovets Medium,townships,4000,Medium
+497,Agrovets Small,townships,3000,Small
+503,"LARGE, HIGH STANDARD LODGING, House/Hostel  D class  over 100 rooms",townships,40000,Large
+506,"MEDIUM HIGH STANDARD LODGING, House/Hostel D class from 40 to 99 rooms",townships,25500,Medium
+509,"SMALL HIGH STANDARD LODGING, House/Hotel D class up to 39 rooms",townships,25500,Small
+512,"LARGE LODGING HOUSE , With Restaurant and or Bar  B/C class, Basic standard over 15 rooms",townships,20000,Large
+515,Medium Lodging House with Restaurant or Bar B/C class Basic standard from  6 to 15 rooms,townships,18000,Medium
+518,"Small lodging House with Restaurant and or Bar B/C class, Basic standard up to 5 rooms",townships,14000,Small
+521,"Large lodging House B/C class, Basic standard over 15 rooms",townships,14000,Large
+524,"Medium lodging House B/C class, Basic standard from 6 to 15 rooms",townships,10000,Medium
+527,"Small lodging House, Basic standard B/C class up to 5 rooms",townships,8000,Small
+540,Large Restaurant with Bar/Membership club over 30 customers/members,townships,16000,Large
+543,Medium Restaurant with Bar/membership club 11 to 30 customers/members,townships,10000,Medium
+546,Small Restaurant with pub up to 10 customers,townships,6000,Small
+549,"Large eating house, snack bar, tea house,? hotel?  no lodging, no alcohol served over 20 customers.",townships,10000,Large
+552,"Medium eating house snack bar, tea house, ?Hotel?",townships,6000,Medium
+555,"Small eating house, snack bar, tea house, ?Hotel? no lodging no alcohol served up to 6 customers",townships,2800,Small
+558,Butchery with  roasted meat and or soup kitchen any size,townships,4000,
+561,Large Bar/Traditional beer Seller  over 50 customers,townships,10000,Large
+564,Medium Bar/Traditional Bar Seller from 16 to 50 customers,townships,6000,Medium
+567,Small Bar/Traditional Beer Seller up to 15 customers,townships,4000,Small
+571,Large Night Club/Casino over 500m2,townships,28000,Large
+574,Medium Night club/casino from 101 to 500m2,townships,16000,Medium
+575,Small Night club/Casino up to 100m2,townships,12250,Small
+595,"Homestay, AIRBNB and catering",townships,5500,
+605,Large professional service from over 10 practitioners and for International affiliation,townships,35000,Large
+606,Large (Above 5 practitioners),townships,17000,Large
+607,Medium (Between 2-5 practitioners),townships,12000,Medium
+608,Small (Below 2practitioners),townships,8500,Small
+610,Medium professional services from 3 to 10 practitioners,townships,20000,Medium
+615,Small Professional services from up to 2 practitioners,townships,12250,Small
+622,Recruitment agencies with above 5 employees,townships,25000,
+623,Recruitment agencies with less than 5 employees,townships,10000,
+624,"Independent Technical operator 1 person acting Individually (Accountant, Book-keeper etc)",townships,4000,
+625,Large financial services over 25 employees or premises over 300m2,townships,50000,Large
+626,Medium Financial services from 6 to 25 employees,townships,35000,Medium
+635,Small Financial services up to 5 employees,townships,20000,Small
+637,Large Car Wash with more than 5 employees,townships,4000,Large
+638,Medium Car wash with between 2 ? 4 employees,townships,8500,Medium
+639,Small Car wash wish one employee,townships,3500,Small
+640,MPESA Above 2 Tellers,townships,4000,
+641,MPESA Below 2 tellers,townships,2800,
+643,money point/ATMs/ money machines separate from branch/office(per ATM),townships,17000,
+644,Executive kinyozi /salon with over 5chairs with several massage beds with pedicures,townships,6000,
+645,Large kinyozi /salon with between 3-5  chairs with no massage,townships,4500,Large
+646,Medium kinyozi /salon 2-3 chairs with no massage,townships,4000,Medium
+647,Small kinyozi /salon with less than 2 chairs with no massage,townships,2500,Small
+695,Tailoring/dress making,townships,2800,
+696,Large with more than 5 employees,townships,8500,Large
+697,Medium with between 2 ? 4 employees,townships,4500,Medium
+698,Small with one employee,townships,2500,Small
+704,"Large Private Higher Education Institution Any type of private University or a constituent college of  a University, college or higher education institution over 500 Students or fees over 100,000 per year",townships,30000,Large
+705,"Medium  Private Education Institution  Any type of private University or a constituent college of  a University, college or higher education institution above 200 Students or fees over 50,000 per year",townships,15000,Medium
+710,"Small  Private Education Institution  Any type of private University or a constituent college of  a University, college or higher education institution with less than 200 Students or fees over less than 50,000 per year",townships,10000,Small
+713,"Large private primary institutions or ECD center with more than 300 children or fees more than shs 50,000 per year",townships,8000,Large
+714,"Medium  private primary institutions or ECD centers with more than 100 children or fees more than shs 20,000 per year",townships,6500,Medium
+715,"Small Private primary institutions or ECD center with less than 100 children or fees less than shs 20,000 per year",townships,5500,Small
+720,"Large private health facility hospital, clinic, nursing home, Clinics, Funeral homes providing overnight accommodation, over 30 beds funeral home",townships,40000,Large
+721,"Medium private health facility, Chemists distributors, Funeral homes  from 11 to 30 beds funeral home",townships,25000,Medium
+722,Small private health facility /Funeral homes up to 10 beds,townships,15000,Small
+723,"Health clinic, doctors surgery, Doctors dentist ? physiotherapist etc. consultant office no overnight accommodation",townships,4000,
+724,Private medical Laboratories found in Pharmacies,townships,7500,
+725,"Traditional Health Services, Herbalist, Traditional healer etc.",townships,7500,
+730,"Large entertainment facility, Cinema, Theatre ? video show over 101 seats, PlayStation, Amusement, juke box, Games machines Arcades over 10 machines, sports club, gym over 50 members",townships,45000,Large
+731,"Medium Entertainment facility, From 50 to 100 seats / from 4 to 10 machines/from 16 to 50 members",townships,25000,Medium
+732,Small Entertainment facility up to 60 seats/up to 3 machines up to 15 members,townships,17500,Small
+734,Photocopy/typesetting/cyber,townships,3000,
+810,Large Industrial plant over 75 employees or premises over 2500m2,townships,40000,Large
+811,Medium Industrial Plant up to 15 employees or premises up to 100m2,townships,35000,Medium
+812,Small Industrial plant up to 15 employees or premises up to 100m2,townships,15000,Small
+820,"Large workshop, Service repair Garage, contractor over 5 employees or premises over 500m2",townships,35000,Large
+821,"Medium workshop, service repair Garage,  contractor from 3 to 4 employees or premises from 25 m2 to 500m2",townships,20000,Medium
+822,"Small workshop, service repair Garage, contractor up to 2 employees or premises up to 25m2",townships,7000,Small
+823,"Other manufacturer ,workshop factory contractor",townships,4000,
+824,Wood Carpentry,townships,3000,
+825,"Construction. Supplies of building materials, Block Making",townships,8500,
+826,Furniture/ house hold Show rooms,townships,15000,
